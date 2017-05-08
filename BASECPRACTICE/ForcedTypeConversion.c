@@ -34,8 +34,8 @@ void ForcedTypeConversion(){
     
     sum1 = i+c ;
     
- //   printf("Value of sum : %d\n",sum1);
-    printf("Value of sum : %f\n",sum1);
+   // printf("Value of sum : %d\n",sum1);
+   // printf("Value of sum : %f\n",sum1);
     
     
     printf("File :%s\n", __FILE__ );
