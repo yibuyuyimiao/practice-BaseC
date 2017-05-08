@@ -12,6 +12,10 @@
 // 错误处理
 extern void handleError();
 
+// 强制类型转换
+extern void ForcedTypeConversion();
+
+
 // 递归
 extern int fibonaci (int i);
 
@@ -106,8 +110,8 @@ int main(int argc, const char * argv[]) {
     //        printf("%d\t\n",fibonaci(i));
     //    }
     
-    handleError();
-    
+    //   handleError();
+    ForcedTypeConversion();
     
     return 0;
 }

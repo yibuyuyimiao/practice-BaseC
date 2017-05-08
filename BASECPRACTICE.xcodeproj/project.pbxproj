@@ -19,6 +19,7 @@
 		387B235A1EC01BF100AF91D0 /* ThreeNumberFromSmall.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B234F1EC01BF100AF91D0 /* ThreeNumberFromSmall.c */; };
 		387B235B1EC01BF100AF91D0 /* VariableParamaster.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23501EC01BF100AF91D0 /* VariableParamaster.c */; };
 		387B235C1EC01BF100AF91D0 /* WhatIsTheNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23511EC01BF100AF91D0 /* WhatIsTheNumber.c */; };
+		387B235E1EC03DD700AF91D0 /* ForcedTypeConversion.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B235D1EC03DD700AF91D0 /* ForcedTypeConversion.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		387B234F1EC01BF100AF91D0 /* ThreeNumberFromSmall.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ThreeNumberFromSmall.c; sourceTree = "<group>"; };
 		387B23501EC01BF100AF91D0 /* VariableParamaster.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = VariableParamaster.c; sourceTree = "<group>"; };
 		387B23511EC01BF100AF91D0 /* WhatIsTheNumber.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = WhatIsTheNumber.c; sourceTree = "<group>"; };
+		387B235D1EC03DD700AF91D0 /* ForcedTypeConversion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ForcedTypeConversion.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		387B233D1EC01BCA00AF91D0 /* BASECPRACTICE */ = {
 			isa = PBXGroup;
 			children = (
+				387B233E1EC01BCA00AF91D0 /* main.c */,
 				387B23451EC01BF100AF91D0 /* enternFunctionPrintf.c */,
 				387B23461EC01BF100AF91D0 /* EnterpriseBonusProfit.c */,
 				387B23471EC01BF100AF91D0 /* externalFunctionPractice.c */,
@@ -94,7 +97,7 @@
 				387B234F1EC01BF100AF91D0 /* ThreeNumberFromSmall.c */,
 				387B23501EC01BF100AF91D0 /* VariableParamaster.c */,
 				387B23511EC01BF100AF91D0 /* WhatIsTheNumber.c */,
-				387B233E1EC01BCA00AF91D0 /* main.c */,
+				387B235D1EC03DD700AF91D0 /* ForcedTypeConversion.c */,
 			);
 			path = BASECPRACTICE;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				387B23521EC01BF100AF91D0 /* enternFunctionPrintf.c in Sources */,
 				387B23561EC01BF100AF91D0 /* ManagerAlloc.c in Sources */,
 				387B23571EC01BF100AF91D0 /* practiceExtent.c in Sources */,
+				387B235E1EC03DD700AF91D0 /* ForcedTypeConversion.c in Sources */,
 				387B233F1EC01BCA00AF91D0 /* main.c in Sources */,
 				387B235B1EC01BF100AF91D0 /* VariableParamaster.c in Sources */,
 				387B235C1EC01BF100AF91D0 /* WhatIsTheNumber.c in Sources */,
@@ -299,6 +303,7 @@
 				387B23441EC01BCA00AF91D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
