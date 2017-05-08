@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++A7FDC6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++D816F6C" : 9223372036854775807,
+    "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++95E553B" : 9223372036854775807,
+    "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++A7FDC6B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5CFA4BEC-A740-4A15-824E-BE939631B096",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++D816F6C" : "",
+    "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++95E553B" : "",
+    "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++A7FDC6B" : "practice-BaseC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BASECPRACTICE",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BASECPRACTICE.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yibuyuyimiao\/practice-BaseC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++95E553B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yibuyuyimiao\/practice-BaseC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++A7FDC6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yibuyuyimiao\/practice-BaseC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C3D0BA10081EB33A52EDE3E0C9F7CECC1DE9637+++D816F6C"
+    }
+  ]
+}
