@@ -8,6 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		387B233F1EC01BCA00AF91D0 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B233E1EC01BCA00AF91D0 /* main.c */; };
+		387B23521EC01BF100AF91D0 /* enternFunctionPrintf.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23451EC01BF100AF91D0 /* enternFunctionPrintf.c */; };
+		387B23531EC01BF100AF91D0 /* EnterpriseBonusProfit.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23461EC01BF100AF91D0 /* EnterpriseBonusProfit.c */; };
+		387B23541EC01BF100AF91D0 /* externalFunctionPractice.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23471EC01BF100AF91D0 /* externalFunctionPractice.c */; };
+		387B23551EC01BF100AF91D0 /* handleError.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23491EC01BF100AF91D0 /* handleError.c */; };
+		387B23561EC01BF100AF91D0 /* ManagerAlloc.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B234A1EC01BF100AF91D0 /* ManagerAlloc.c */; };
+		387B23571EC01BF100AF91D0 /* practiceExtent.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B234B1EC01BF100AF91D0 /* practiceExtent.c */; };
+		387B23581EC01BF100AF91D0 /* Recursion.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B234D1EC01BF100AF91D0 /* Recursion.c */; };
+		387B23591EC01BF100AF91D0 /* ThreeNumberCount.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B234E1EC01BF100AF91D0 /* ThreeNumberCount.c */; };
+		387B235A1EC01BF100AF91D0 /* ThreeNumberFromSmall.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B234F1EC01BF100AF91D0 /* ThreeNumberFromSmall.c */; };
+		387B235B1EC01BF100AF91D0 /* VariableParamaster.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23501EC01BF100AF91D0 /* VariableParamaster.c */; };
+		387B235C1EC01BF100AF91D0 /* WhatIsTheNumber.c in Sources */ = {isa = PBXBuildFile; fileRef = 387B23511EC01BF100AF91D0 /* WhatIsTheNumber.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +36,19 @@
 /* Begin PBXFileReference section */
 		387B233B1EC01BCA00AF91D0 /* BASECPRACTICE */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BASECPRACTICE; sourceTree = BUILT_PRODUCTS_DIR; };
 		387B233E1EC01BCA00AF91D0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		387B23451EC01BF100AF91D0 /* enternFunctionPrintf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = enternFunctionPrintf.c; sourceTree = "<group>"; };
+		387B23461EC01BF100AF91D0 /* EnterpriseBonusProfit.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = EnterpriseBonusProfit.c; sourceTree = "<group>"; };
+		387B23471EC01BF100AF91D0 /* externalFunctionPractice.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = externalFunctionPractice.c; sourceTree = "<group>"; };
+		387B23481EC01BF100AF91D0 /* externalFunctionPractice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = externalFunctionPractice.h; sourceTree = "<group>"; };
+		387B23491EC01BF100AF91D0 /* handleError.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = handleError.c; sourceTree = "<group>"; };
+		387B234A1EC01BF100AF91D0 /* ManagerAlloc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ManagerAlloc.c; sourceTree = "<group>"; };
+		387B234B1EC01BF100AF91D0 /* practiceExtent.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = practiceExtent.c; sourceTree = "<group>"; };
+		387B234C1EC01BF100AF91D0 /* practiceExtent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = practiceExtent.h; sourceTree = "<group>"; };
+		387B234D1EC01BF100AF91D0 /* Recursion.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Recursion.c; sourceTree = "<group>"; };
+		387B234E1EC01BF100AF91D0 /* ThreeNumberCount.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ThreeNumberCount.c; sourceTree = "<group>"; };
+		387B234F1EC01BF100AF91D0 /* ThreeNumberFromSmall.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ThreeNumberFromSmall.c; sourceTree = "<group>"; };
+		387B23501EC01BF100AF91D0 /* VariableParamaster.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = VariableParamaster.c; sourceTree = "<group>"; };
+		387B23511EC01BF100AF91D0 /* WhatIsTheNumber.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = WhatIsTheNumber.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +81,19 @@
 		387B233D1EC01BCA00AF91D0 /* BASECPRACTICE */ = {
 			isa = PBXGroup;
 			children = (
+				387B23451EC01BF100AF91D0 /* enternFunctionPrintf.c */,
+				387B23461EC01BF100AF91D0 /* EnterpriseBonusProfit.c */,
+				387B23471EC01BF100AF91D0 /* externalFunctionPractice.c */,
+				387B23481EC01BF100AF91D0 /* externalFunctionPractice.h */,
+				387B23491EC01BF100AF91D0 /* handleError.c */,
+				387B234A1EC01BF100AF91D0 /* ManagerAlloc.c */,
+				387B234B1EC01BF100AF91D0 /* practiceExtent.c */,
+				387B234C1EC01BF100AF91D0 /* practiceExtent.h */,
+				387B234D1EC01BF100AF91D0 /* Recursion.c */,
+				387B234E1EC01BF100AF91D0 /* ThreeNumberCount.c */,
+				387B234F1EC01BF100AF91D0 /* ThreeNumberFromSmall.c */,
+				387B23501EC01BF100AF91D0 /* VariableParamaster.c */,
+				387B23511EC01BF100AF91D0 /* WhatIsTheNumber.c */,
 				387B233E1EC01BCA00AF91D0 /* main.c */,
 			);
 			path = BASECPRACTICE;
@@ -120,7 +157,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				387B23591EC01BF100AF91D0 /* ThreeNumberCount.c in Sources */,
+				387B23551EC01BF100AF91D0 /* handleError.c in Sources */,
+				387B23531EC01BF100AF91D0 /* EnterpriseBonusProfit.c in Sources */,
+				387B23521EC01BF100AF91D0 /* enternFunctionPrintf.c in Sources */,
+				387B23561EC01BF100AF91D0 /* ManagerAlloc.c in Sources */,
+				387B23571EC01BF100AF91D0 /* practiceExtent.c in Sources */,
 				387B233F1EC01BCA00AF91D0 /* main.c in Sources */,
+				387B235B1EC01BF100AF91D0 /* VariableParamaster.c in Sources */,
+				387B235C1EC01BF100AF91D0 /* WhatIsTheNumber.c in Sources */,
+				387B23581EC01BF100AF91D0 /* Recursion.c in Sources */,
+				387B23541EC01BF100AF91D0 /* externalFunctionPractice.c in Sources */,
+				387B235A1EC01BF100AF91D0 /* ThreeNumberFromSmall.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
