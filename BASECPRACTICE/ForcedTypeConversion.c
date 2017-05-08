@@ -30,9 +30,9 @@ void ForcedTypeConversion(){
     
    // int sum1;
     
-    float sum1;
+   // float sum1;
     
-    sum1 = i+c ;
+   // sum1 = i+c ;
     
    // printf("Value of sum : %d\n",sum1);
    // printf("Value of sum : %f\n",sum1);
