@@ -41,6 +41,7 @@ int main(int argc, const char * argv[]) {
         
         for (i = 0;  i < 5; i++) {
             
+            // 读入数据
             scanf("%d %s %d %d %d",&(stu[i].ID),stu[i].name,&(stu[i].math),&(stu[i].English),&(stu[i].C));
             
             stu[i].avargrade = (stu[i].math+stu[i].English+stu[i].C)/3;
@@ -55,6 +56,7 @@ int main(int argc, const char * argv[]) {
         
         for (i = 0; i < 5; i++) {
             
+            // 写入文件
             fprintf(fp, "%d %s %d %d %d %d\n",stu[i].ID,stu[i].name,stu[i].math,stu[i].English,stu[i].C,stu[i].avargrade);
         }
         
